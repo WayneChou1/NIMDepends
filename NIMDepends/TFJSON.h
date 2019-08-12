@@ -54,7 +54,7 @@
 /**
  *  数组转换为JSON
  *
- *  @param  NSArray
+ *  @param  array 数组
  *
  *  @return NSString(JSON)
  */
